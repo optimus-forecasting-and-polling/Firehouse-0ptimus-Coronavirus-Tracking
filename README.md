@@ -3,9 +3,9 @@ Firehouse and 0ptimus tracking poll covering coronavirus and political issues
 
 <a href="">Methodology Statement</a>
 
-<a href="">MI Toplines</a>
+<a href="">Toplines</a>
 
-<a href="">MI Crosstabs</a>
+<a href="">Crosstabs</a>
 
 <a href=""> AAPOR Transparency Initiative Statement</a>
 
