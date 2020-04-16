@@ -1,7 +1,7 @@
 # Firehouse-0ptimus-Coronavirus-Tracking
 Firehouse and 0ptimus tracking poll covering coronavirus and political issues
 
-<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Coronavirus-Tracking/blob/master/April-16-2020/0ptimus_Coronavirus_Methodology_Statemen0314.pdf">Methodology Statement</a>
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Coronavirus-Tracking/blob/master/April-16-2020/0ptimus_Coronavirus_Methodology_Statement0414.pdf">Methodology Statement</a>
 
 <a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Coronavirus-Tracking/blob/master/April-16-2020/Toplines_2020-04-14.pdf">Toplines</a>
 
